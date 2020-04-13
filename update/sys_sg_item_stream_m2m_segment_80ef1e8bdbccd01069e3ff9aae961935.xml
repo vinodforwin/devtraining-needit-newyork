@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
+    <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
+        <item_stream display_value="By Request Type Item Stream">c4ef1e8bdbccd01069e3ff9aae961914</item_stream>
+        <segment display_value="Item Stream Segment">8cef1e8bdbccd01069e3ff9aae961932</segment>
+        <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
+        <sys_created_by>vkallam</sys_created_by>
+        <sys_created_on>2020-04-13 02:29:53</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>80ef1e8bdbccd01069e3ff9aae961935</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_80ef1e8bdbccd01069e3ff9aae961935</sys_update_name>
+        <sys_updated_by>vkallam</sys_updated_by>
+        <sys_updated_on>2020-04-13 02:29:53</sys_updated_on>
+    </sys_sg_item_stream_m2m_segment>
+</record_update>
